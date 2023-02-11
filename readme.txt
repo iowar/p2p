@@ -1,7 +1,7 @@
 # p2p network with libp2p-go
 
 * now
-  ----
+ -----
 - mdns discovery
 - dht routing
 - bootstrap connection
@@ -15,7 +15,7 @@
     [-] peerlist
 
 * todo
-  ----
+ -----
 - rate limiting
 - permission
 - dos protector
