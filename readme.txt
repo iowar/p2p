@@ -20,5 +20,6 @@
 - permission
 - dos protector
 - private logger
+- static port (when switch lan to wan)
 
 
