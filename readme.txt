@@ -16,10 +16,12 @@
 
 * todo
  -----
+- manager library
 - rate limiting
 - permission
 - dos protector
-- private logger
+- private logger 
+- docker support
 - static port (when switch lan to wan)
 
 
